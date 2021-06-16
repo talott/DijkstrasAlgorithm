@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/TraAL/Documents/College Binder/CSE 310/P3/graph.cpp
+graph.h
+C:/Users/TraAL/Documents/College Binder/CSE 310/P3/graph.h
+heap.h
+C:/Users/TraAL/Documents/College Binder/CSE 310/P3/heap.h
+stdio.h
+-
+list
+-
+cstdlib
+-
+
+C:/Users/TraAL/Documents/College Binder/CSE 310/P3/graph.h
+stdio.h
+-
+
+C:/Users/TraAL/Documents/College Binder/CSE 310/P3/heap.h
+graph.h
+C:/Users/TraAL/Documents/College Binder/CSE 310/P3/graph.h
+
+C:/Users/TraAL/Documents/College Binder/CSE 310/P3/main.cpp
+graph.h
+C:/Users/TraAL/Documents/College Binder/CSE 310/P3/graph.h
+util.h
+C:/Users/TraAL/Documents/College Binder/CSE 310/P3/util.h
+main.h
+C:/Users/TraAL/Documents/College Binder/CSE 310/P3/main.h
+stdlib.h
+C:/Users/TraAL/Documents/College Binder/CSE 310/P3/stdlib.h
+string.h
+C:/Users/TraAL/Documents/College Binder/CSE 310/P3/string.h
+
+C:/Users/TraAL/Documents/College Binder/CSE 310/P3/main.h
+
+C:/Users/TraAL/Documents/College Binder/CSE 310/P3/util.h
+
